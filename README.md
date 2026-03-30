@@ -36,7 +36,7 @@
 
 ---
 ## ✅ Quer testar?
--   Teste aqui no vercel: [Gravitis Vercel](https://gravitris.vercel.app/)
+-   Teste aqui no vercel: [Gravitis Vercel](https://gravitris-vert.vercel.app/)
 ---
 
 ## 🛠️ Tecnologias Usadas
