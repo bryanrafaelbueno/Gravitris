@@ -54,7 +54,7 @@ O projeto está contido em três arquivos (`index.html`, `style.css`, `script.js
 
 1.  Clone o repositório:
     ```bash
-    git clone https://github.com/GeleiaComPepino/Gravitris.git
+    git clone https://github.com/bryanrafaelbueno/Gravitris.git
     cd Gravitris
     ```
 2.  Abra o arquivo `index.html` em qualquer navegador moderno. (Um servidor web é recomendado caso erros)
@@ -75,4 +75,4 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Bryan Rafael (GeleiaComPepino)**
+Desenvolvido por **Bryan Rafael**
